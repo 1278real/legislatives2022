@@ -9,6 +9,5 @@ Libre accès, libre utilisation : merci de créditer le repository.
 N’hésitez pas à commenter, compléter, soumettre vos remarques et résultats…
 
 
-## Mises à jour
-Circo 99905 officielle
-
+## Nota bene
+Ne sont affichés que les 4 premiers (pour l’improbable cas où il y aurait quadrangulaire).
