@@ -1,11 +1,15 @@
-circo,nom-prenom,score,qualif,nom-prenom,score,qualif,nom-prenom,score,qualif,nom-prenom,score,qualif
-98701,bouteau-nicole,41.90,checked,le gayic-tematai,20.11,checked,haiti-pascale,14.39,,tokoragi-félix,9.62,
-98702,teriitahi-tepuaraurii,33.24,checked,chailloux-steve,28.84,checked,sanquer-nicole,17.31,,tarihaa-jonathan,12.74,
-98703,brotherson-moetai,34.3,checked,tumahai-tuterai,32.0,checked,laurey-nihau,14.53,,terooatea-sylviane,13.99,
-99901,lescure-roland,35.9,checked,roger-florence,33.4,checked,michon-gérard,10.7,,bondrille-franck,5.3,
-99902,caroit-éléonore,34.6,checked,rodriguez-christian,28.2,checked,dupont-bertrand,12.2,,thorailler-yves,6.3,
-99904,anglade-pieyre alexandre,38.6,checked,gondard-cécilia,32.2,checked,,,,,,
-99905,le berre-renaud,27.24,checked,vojetta-stéphane,25.39,checked,valls-manuel,15.85,,goater-laurent,7.26,
-99906,ferracci-marc,37.4,checked,mangin-magali,19.2,checked,,,,,,
-99909,ben cheikh-karim,39.99,checked,moreno-élisabeth,28.06,checked,,,,,,
-99911,genetet-anne,38.1,checked,vidal-dominique,24.8,checked,guyon-marc,10.1,,gentil-pascal,9,5,
+circo;nom-prenom;score;qualif;nom-prenom;score;qualif;nom-prenom;score;qualif;nom-prenom;score;qualif
+98701;bouteau-nicole;41.90;checked;le gayic-tematai;20.11;checked;haiti-pascale;14.39;;tokoragi-félix;9.62;
+98702;teriitahi-tepuaraurii;33.24;checked;chailloux-steve;28.84;checked;sanquer-nicole;17.31;;tarihaa-jonathan;12.74;
+98703;brotherson-moetai;34.3;checked;tumahai-tuterai;32.0;checked;laurey-nihau;14.53;;terooatea-sylviane;13.99;
+99901;lescure-roland;35.9;checked;roger-florence;33.4;checked;michon-gérard;10.7;;bondrille-franck;5.3;
+99902;caroit-éléonore;34.6;checked;rodriguez-christian;28.2;checked;dupont-bertrand;12.2;;thorailler-yves;6.3;
+99903;holroyd-alexandre;38.5;checked;minvielle-charlotte;31.5;checked;helaili chapuis-laurence;8.6;;galiay-artus;5.5;
+99904;anglade-pieyre alexandre;38.9;checked;gondard-cécilia;32.5;checked;machicote-geneviève;5.9;;mabasi-marie josée;5.3;
+99905;le berre-renaud;27.24;checked;vojetta-stéphane;25.39;checked;valls-manuel;15.85;;goater-laurent;7.26;
+99906;ferracci-marc;36.5;checked;mangin-magali;20.3;checked;corbran-roxane;8.9;;mazloum martin-régine;8.6;
+99907;petit-frédéric;33.6;checked;rharmaoui claquin-asma;26.1;checked;botéva malo-tania;7.2;;geiter-bernard;5.7;
+99908;habib-meyer;28.9;checked;abisror de lieme-deborah;27.8;checked;rivolet-isabelle;18.8;;siksik-serge;6.9;
+99909;ben cheikh-karim;39.99;checked;moreno-élisabeth;28.06;checked;reddad-mehdi;6.2;;amiot-nathalie;5.5;
+99910;lakrafi-amal amélia;32.8;checked;moussa-chantal;22.5;checked;pirillo-aurélie;10.9;;azar-georges;8.5;
+99911;genetet-anne;38.1;checked;vidal-dominique;24.8;checked;guyon-marc;10.1;;gentil-pascal;9.5;
