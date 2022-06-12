@@ -6051,13 +6051,13 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 972-01;6050;Charles;BELIMONT;;0,00;;RN;;6050
 972-01;6051;Eric Thomas;CRISPIN;;0,00;;EXG;;6051
 972-02;6052;Chantal;SAINT-OLYMPE;;0,00;;Patriotes;;6052
-972-02;6053;Marcellin;NADEAU;;0,01;checked;REG;;6053
+972-02;6053;Marcellin;NADEAU;;27,60;checked;REG;;6053
 972-02;6054;Karine;VARASSE;;0,00;;LFI;checked;6054
 972-02;6055;Max;FERRATY;;0,00;;RN;;6055
 972-02;6056;Astrid;RODAP;;0,00;;UDI;;6056
 972-02;6057;Marcel;SELLAYE;;0,00;;EXG;;6057
 972-02;6058;Jean-Baptiste Joseph;ROTSEN;;0,00;;DVG;;6058
-972-02;6059;Justin;PAMPHILE;;0,01;checked;REG;;6059
+972-02;6059;Justin;PAMPHILE;;25,90;checked;REG;;6059
 972-02;6060;Barbara;JEAN-ELIE;;0,00;;DVG;;6060
 972-02;6061;Gaétan;DUFEAL;;0,00;;EXG;;6061
 972-02;6062;Cynthia;BELLAME;;0,00;;Reconquête;;6062
@@ -6066,13 +6066,13 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 972-03;6065;Isabelle;MOLE;;0,00;;UDI;;6065
 972-03;6066;Cédric;CRAMPON;;0,00;;RN;;6066
 972-03;6067;Daniel;ROBIN;;0,00;;DVG;;6067
-972-03;6068;Francis;CAROLE;;0,01;checked;REG;;6068
+972-03;6068;Francis;CAROLE;;18,90;checked;REG;;6068
 972-03;6069;Marie-Jeanne Françoise;JEANVILLE;;0,00;;Reconquête;;6069
 972-03;6070;Audrey Arielle;GIRAUD;;0,00;;LRM;;6070
 972-03;6071;Jean-Michel;JEAN-BAPTISTE;;0,00;;DVG;;6071
 972-03;6072;Thierry;RENARD;;0,00;;LFI;;6072
 972-03;6073;Joël;BARDET;;0,00;;REG;;6073
-972-03;6074;Johnny;HAJJAR;;0,01;checked;DVG;;6074
+972-03;6074;Johnny;HAJJAR;;37,00;checked;DVG;;6074
 972-03;6075;Noël;NEMOUTHE;;0,00;;DIV;;6075
 972-04;6076;David;DINAL;;7,70;;DVG;;6076
 972-04;6077;Richard Darius;MIRANDE;;0,00;;DVG;;6077
