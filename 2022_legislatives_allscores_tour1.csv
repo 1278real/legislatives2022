@@ -1,5 +1,5 @@
 circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissidence;index
-001-01;1;Vincent;GUILLERMIN;;0,00;;LRM;;1
+001-01;1;Vincent;GUILLERMIN;;0,00;;AGIR,LRM;;1
 001-01;2;Éric;LAHY;;0,00;;LO;;2
 001-01;3;Xavier;BRETON;checked;0,00;;LR;;3
 001-01;4;Brigitte;PIROUX GIANNOTTI;;0,00;;RN;;4
@@ -839,7 +839,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 019-01;838;Gilles;OGUINENA;;0,00;;Reconquête;;838
 019-02;839;Lise;QUILLOT;;0,00;;DVG;;839
 019-02;840;Nicolas;BROUSSE;;0,00;;LRM;;840
-019-02;841;Olivier;BONNIE;;0,00;;DVC;;841
+019-02;841;Olivier;BONNIE;;0,00;;Horizons;;841
 019-02;842;Thierry;DUMAS;;0,00;;Patriotes;;842
 019-02;843;Frédérique;MEUNIER;checked;0,00;;LR;;843
 019-02;844;Valéry;ELOPHE;;0,00;;RN;;844
@@ -1022,7 +1022,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 024-01;1021;Williams;AMBROISE;;0,00;;RN;;1021
 024-01;1022;Pierre;MELO;;0,00;;DIV;;1022
 024-01;1023;Cécile;CHRÉTIEN;;0,00;;DVE;;1023
-024-01;1024;Floran;VADILLO;;0,00;;FGR;checked;1024
+024-01;1024;Floran;VADILLO;;0,00;;PS;checked;1024
 024-01;1025;Philippe;CHASSAING;;0,00;;LRM;;1025
 024-01;1026;Pascale;MARTIN;;0,00;;LFI;;1026
 024-01;1027;Isabelle;LEGLU;;0,00;;MdR;;1027
@@ -1230,7 +1230,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 028-03;1229;Damien;BOUTICOURT;;0,00;;DLF;;1229
 028-03;1230;Vincent;CHEVROLLIER;;0,00;;LO;;1230
 028-03;1231;Vivette;JOLY;;0,00;;DVE;;1231
-028-03;1232;Romain;RIBAS;;0,00;;DVG;;1232
+028-03;1232;Romain;RIBAS;;0,00;;LRM;;1232
 028-03;1233;Soumaya;DARDABA;;0,00;;DVE;;1233
 028-03;1234;Claire;BARBIER;;0,00;;Parti animaliste;;1234
 028-03;1235;Aurore;LAMOUREUX;;0,00;;EXG;;1235
@@ -1374,7 +1374,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 030-04;1373;Arnaud;BORD;;0,00;;PS;;1373
 030-04;1374;Denis;BIAIS;;0,00;;Patriotes;;1374
 030-04;1375;Jean-Pierre;DE FARIA;;0,00;;DVD;;1375
-030-04;1376;Philippe;RIBOT;;0,00;;LRM;;1376
+030-04;1376;Philippe;RIBOT;;0,00;;AGIR,LRM;;1376
 030-04;1377;Stéphane;NAPOLI;;0,00;;DIV;;1377
 030-04;1378;Valérie;MARTRE;;0,00;;UDI;;1378
 030-04;1379;Jérôme;GARCIA;;0,00;;LO;;1379
@@ -1681,7 +1681,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 033-11;1680;Charles;RENY;;0,00;;DIV;;1680
 033-11;1681;Cécile;PICARD;;0,00;;LR;;1681
 033-11;1682;Véronique;HAMMERER;checked;0,00;;LRM;;1682
-033-12;1683;Bruno;MARTY;;0,00;;FGR;checked;1683
+033-12;1683;Bruno;MARTY;;0,00;;PS;checked;1683
 033-12;1684;Bastien;MERCIER;;0,00;;LR;;1684
 033-12;1685;Pascal;LAVERGNE;;0,00;;LRM;;1685
 033-12;1686;Hager;JACQUEMIN;;0,00;;RN;;1686
@@ -1783,7 +1783,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 034-07;1782;Guillaume;SULTANI;;0,00;;DVE;;1782
 034-07;1783;Audrey;CAVAILLÉ;;0,00;;Reconquête;;1783
 034-07;1784;Georges;GALLERAND;;0,00;;Patriotes;;1784
-034-07;1785;Christophe;EUZET;checked;0,00;;LRM;;1785
+034-07;1785;Christophe;EUZET;checked;0,00;;AGIR,LRM;;1785
 034-08;1786;Nathalie;LEFEUVRE-ROUMANOS;;0,00;;LR;;1786
 034-08;1787;Jean-Baptiste;ROGER;;0,00;;DVE;;1787
 034-08;1788;Marie-France;BRITTO;;0,00;;MdR;;1788
@@ -1924,7 +1924,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 037-01;1923;François;DUCAMP;;0,00;;RN;;1923
 037-01;1924;Olivier;LEBRETON;;0,00;;LR;;1924
 037-01;1925;Philippe;CHALUMEAU;checked;0,00;;LRM;;1925
-037-01;1926;Bertrand;ROUZIER;;0,00;;DVE;;1926
+037-01;1926;Bertrand;ROUZIER;;0,00;;Génération écologie;;1926
 037-01;1927;Thomas;JOUHANNAUD;;0,00;;LO;;1927
 037-01;1928;Sophie;DE LANOUVELLE;;0,00;;Reconquête;;1928
 037-01;1929;Charles;FOURNIER;;0,00;;EE-LV;;1929
@@ -2148,7 +2148,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 041-03;2147;Eric;DOUMAS;;0,00;;MdR;;2147
 041-03;2148;Claude;LAMY;;0,00;;LO;;2148
 041-03;2149;Marine;BARDET;;0,00;;RN;;2149
-042-01;2150;Quentin;BATAILLON;;0,00;;LRM;;2150
+042-01;2150;Quentin;BATAILLON;;0,00;;AGIR,LRM;;2150
 042-01;2151;Pascale;FEDINGER;;0,00;;PRG;;2151
 042-01;2152;Yakup;HARMANCI;;0,00;;UDMF;;2152
 042-01;2153;Pierrick;COURBON;;0,00;;PS;checked;2153
@@ -2171,7 +2171,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 042-02;2170;Andrée;TAURINYA;;0,00;;LFI;;2170
 042-02;2171;Sophie;DIETERICH;;0,00;;LO;;2171
 042-03;2172;Sandrine;LEGLISE;;0,00;;Patriotes;;2172
-042-03;2173;Louis;CAILLON;;0,00;;DVG;;2173
+042-03;2173;Louis;CAILLON;;0,00;;LFI;;2173
 042-03;2174;Vincent;BONY;;0,00;;PCF;;2174
 042-03;2175;Mariam;ASSAOUNE;;0,00;;PRG;;2175
 042-03;2176;Isabelle;SURPLY;;0,00;;Reconquête;;2176
@@ -2181,7 +2181,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 042-03;2180;Emmanuel;MANDON;;0,00;;MDM,LRM;;2180
 042-03;2181;Nina;MOREL;;0,00;;DVG;;2181
 042-03;2182;Axel;DUGUA;;0,00;;LR;;2182
-042-03;2183;Éric;LE JAOUEN;;0,00;;DVD;;2183
+042-03;2183;Éric;LE JAOUEN;;0,00;;LRM;;2183
 042-03;2184;Pascal;BESSON;;0,00;;DVD;;2184
 042-03;2185;Alexandre;VIDAL;;0,00;;SOUV;;2185
 042-04;2186;Sauveur;CUADROS;;0,00;;LO;;2186
@@ -2513,7 +2513,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 049-05;2512;Didier;TESTU;;0,00;;LO;;2512
 049-05;2513;Denis;MASSEGLIA;checked;0,00;;LRM;;2513
 049-05;2514;Jacquelin;LIGOT;;0,00;;DVD;;2514
-049-05;2515;Jean-Michel;DEBARRE;;0,00;;DVC;;2515
+049-05;2515;Jean-Michel;DEBARRE;;0,00;;LRM;;2515
 049-05;2516;Frédéric;GUYARD;;0,00;;DLF;;2516
 049-05;2517;Hervé;FUSIL;;0,00;;Parti animaliste;;2517
 049-05;2518;Sigline;DE CAMPEAU;;0,00;;RN;;2518
@@ -2577,7 +2577,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 051-01;2576;Xavier;ALBERTINI;;0,00;;Horizons,LRM;;2576
 051-01;2577;Evelyne;BOURGOIN;;0,00;;EE-LV;;2577
 051-01;2578;Roger;PARIS;;0,00;;RN;;2578
-051-01;2579;Céline;BRUNHOSO;;0,00;;DVE;;2579
+051-01;2579;Céline;BRUNHOSO;;0,00;;EAC;;2579
 051-01;2580;Vincent;VARLET;;0,00;;LO;;2580
 051-01;2581;Corentin;DEJOIE;;0,00;;Patriotes;;2581
 051-01;2582;Valérie;BEAUVAIS;checked;0,00;;LR;;2582
@@ -2587,7 +2587,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 051-02;2586;Anne-Sophie;FRIGOUT;;0,00;;RN;;2586
 051-02;2587;Thomas;ROSE;;0,00;;LO;;2587
 051-02;2588;Werner;LAVENTURE;;0,00;;Patriotes;;2588
-051-02;2589;Nesma;SAYOUD;;0,00;;DVE;;2589
+051-02;2589;Nesma;SAYOUD;;0,00;;EAC;;2589
 051-02;2590;Stéphane;LANG;;0,00;;LR;;2590
 051-02;2591;Lynda;MEGUENINE;;0,00;;LFI;;2591
 051-03;2592;Antoine;JACQUET;;0,00;;LR;;2592
@@ -2597,22 +2597,22 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 051-03;2596;Charlotte;CORMERAIS;;0,00;;LO;;2596
 051-03;2597;Bertrand;DEBARLE;;0,00;;Parti animaliste;;2597
 051-03;2598;Chantal;BERTHELEMY;;0,00;;PCF;;2598
-051-03;2599;Sonia;D'ORGEVILLE;;0,00;;DVE;;2599
+051-03;2599;Sonia;D'ORGEVILLE;;0,00;;EAC;;2599
 051-03;2600;Eric;GIRARDIN;;0,00;;LRM;;2600
 051-04;2601;Laurent;GOSSEAU;;0,00;;LO;;2601
 051-04;2602;Rémy;CRUZ;;0,00;;Parti animaliste;;2602
-051-04;2603;Pascal;PICART;;0,00;;DVE;;2603
+051-04;2603;Pascal;PICART;;0,00;;EAC;;2603
 051-04;2604;Jean-Louis;DEVAUX;;0,00;;LR;;2604
 051-04;2605;Anthony;SMITH;;0,00;;LFI;;2605
 051-04;2606;Lise;MAGNIER;checked;0,00;;Horizons,LRM;;2606
 051-04;2607;Thierry;BESSON;;0,00;;RN;;2607
-051-04;2608;Georges;KUZMANOVIC;;0,00;;DIV;;2608
+051-04;2608;Georges;KUZMANOVIC;;0,00;;SOUV;;2608
 051-04;2609;Irma;THENANCE;;0,00;;DLF;;2609
 051-04;2610;Emilie Laurence;BRY;;0,00;;Reconquête;;2610
 051-05;2611;Emmanuel;RENOUD;;0,00;;Reconquête;;2611
 051-05;2612;Karine;LE LURON;;0,00;;LFI;;2612
 051-05;2613;Pierre;THIONNET;;0,00;;RN;;2613
-051-05;2614;Lucie;MARTINS;;0,00;;DVE;;2614
+051-05;2614;Lucie;MARTINS;;0,00;;EAC;;2614
 051-05;2615;Charles;DE COURSON;;0,00;;Les Centristes,LR;;2615
 051-05;2616;Marie-Amélie;DE LA ROCHÈRE;;0,00;;Patriotes;;2616
 051-05;2617;Isabelle;PESTRE;;0,00;;MDM,LRM;;2617
@@ -2679,7 +2679,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 054-02;2678;Stéphane;HABLOT;;0,00;;PS;;2678
 054-02;2679;Eric;DAMAMME;;0,00;;DVD;;2679
 054-02;2680;Anselme;BOUSSUGE;;0,00;;Reconquête;;2680
-054-02;2681;Florian;FLAUS;;0,00;;DVE;;2681
+054-02;2681;Florian;FLAUS;;0,00;;REG;;2681
 054-02;2682;Vincent;MANFREDI;;0,00;;Les Centristes,LR;;2682
 054-03;2683;Xavier;BEAUDOUIN;;0,00;;Parti pirate;;2683
 054-03;2684;Xavier;BOURY;;0,00;;LO;;2684
@@ -2720,7 +2720,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 054-06;2719;Anthony;BOULOGNE;;0,00;;RN;;2719
 054-06;2720;Jeanne;AMANN;;0,00;;Reconquête;;2720
 054-06;2721;Xavier;GEHBAUER;;0,00;;EXG;;2721
-054-06;2722;Olivier;HEDIN;;0,00;;DVC;;2722
+054-06;2722;Olivier;HEDIN;;0,00;;LRM;;2722
 054-06;2723;Xavier;COUPAYE;;0,00;;Parti animaliste;;2723
 054-06;2724;Caroline;FIAT;checked;0,00;;LFI;;2724
 054-06;2725;Jonathan;RICHIER;;0,00;;LR;;2725
@@ -2944,7 +2944,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 059-01;2943;Adrien;QUATENNENS;checked;0,00;;LFI;;2943
 059-02;2944;Caroline;BOISARD-VANNIER;;0,00;;LR;;2944
 059-02;2945;Monique;DELEVALLET;;0,00;;Reconquête;;2945
-059-02;2946;Nicolas;KARASIEWICZ;;0,00;;DVC;;2946
+059-02;2946;Nicolas;KARASIEWICZ;;0,00;;LRM;;2946
 059-02;2947;Nordine;AASSI;;0,00;;UDMF;;2947
 059-02;2948;Pascale;ROUGÉE;;0,00;;LO;;2948
 059-02;2949;Virginie;CHAUCHOY;;0,00;;Parti animaliste;;2949
@@ -2994,7 +2994,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 059-07;2993;Jeyan;BICHON;;0,00;;Parti animaliste;;2993
 059-07;2994;Mathilde;LECONTE DUCHANGE;;0,00;;Reconquête;;2994
 059-07;2995;Nicolas;SCHUURMAN;;0,00;;LO;;2995
-059-07;2996;Nelly;SAVIO;;0,00;;DVD;checked;2996
+059-07;2996;Nelly;SAVIO;;0,00;;LRM;checked;2996
 059-07;2997;Charlotte;HOUCKE;;0,00;;Patriotes;;2997
 059-07;2998;Karima;CHOUIA;;0,00;;EE-LV;;2998
 059-07;2999;Jean-Sébastien;WILLEM;;0,00;;RN;;2999
@@ -3062,7 +3062,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 059-14;3061;Philippine;HEYMAN;;0,00;;LFI;;3061
 059-14;3062;Pierre;GONZALEZ;;0,00;;FGR;;3062
 059-14;3063;Sandrine;DESRAYAUD;;0,00;;LO;;3063
-059-14;3064;Paul;CHRISTOPHE;checked;0,00;;Horizons,LRM;;3064
+059-14;3064;Paul;CHRISTOPHE;checked;0,00;;AGIR,LRM;;3064
 059-14;3065;Frédéric;DEVOS;;0,00;;LR;;3065
 059-14;3066;Frédéric;BÉAGUE;;0,00;;Parti animaliste;;3066
 059-15;3067;Anne;ABADIE;;0,00;;MdR;;3067
@@ -3223,7 +3223,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 061-02;3222;Christophe;JOSEPH;;0,00;;FGR;;3222
 061-02;3223;Alexandre;MOREL;;0,00;;RN;;3223
 061-03;3224;Jérôme;NURY;;0,00;;LR;;3224
-061-03;3225;Vincent;BEAUMONT;;0,00;;DVC;;3225
+061-03;3225;Vincent;BEAUMONT;;0,00;;LRM;;3225
 061-03;3226;Solène;GIBAULT;;0,00;;Horizons,LRM;;3226
 061-03;3227;Claire-Emmanuelle;GAUER;;0,00;;Reconquête;;3227
 061-03;3228;Aymeric;YVER;;0,00;;Patriotes;;3228
@@ -3254,7 +3254,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 062-02;3253;Pauline;NAYET;;0,00;;DVG;;3253
 062-02;3254;Arnaud;KOSBUR;;0,00;;UDMF;;3254
 062-02;3255;Jacqueline;MAQUET;checked;0,00;;LRM;;3255
-062-03;3256;Elodie;FIEVET;;0,00;;DVE;;3256
+062-03;3256;Elodie;FIEVET;;0,00;;LRM;;3256
 062-03;3257;Arnaud;DESMARETZ;;0,00;;DVG;;3257
 062-03;3258;Guillaume;KAZNOWSKI;;0,00;;Reconquête;;3258
 062-03;3259;Vincent;CAFLERS;;0,00;;DIV;;3259
@@ -3288,7 +3288,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 062-06;3287;Simon;ERCKELBOUDT;;0,00;;MdR;;3287
 062-06;3288;Pascal;LEBECQ;;0,00;;LFI;;3288
 062-06;3289;Faustine;MALIAR;;0,00;;LR;;3289
-062-06;3290;Patricia;DUVIEUBOURG;;0,00;;FGR;;3290
+062-06;3290;Patricia;DUVIEUBOURG;;0,00;;PS;;3290
 062-06;3291;Jérôme;JUDEK;;0,00;;Reconquête;;3291
 062-06;3292;Vanessa;BOUREL;;0,00;;Parti animaliste;;3292
 062-06;3293;Laure;BOUREL;;0,00;;LO;;3293
@@ -3371,7 +3371,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 063-01;3370;Sébastien;GALPIER;;0,00;;LR;;3370
 063-01;3371;Valérie;THOMAS;checked;0,00;;LRM;;3371
 063-02;3372;Christine;PIRÈS BEAUNE;;0,00;;PS;;3372
-063-02;3373;Karina;MONNET;;0,00;;LRM;;3373
+063-02;3373;Karina;MONNET;;0,00;;AGIR,LRM;;3373
 063-02;3374;Marie-Paule;LACOMBE;;0,00;;MdR;;3374
 063-02;3375;Isabelle;DUPRÉ;;0,00;;RN;;3375
 063-02;3376;Kenny;BERTHON;;0,00;;Parti pirate;;3376
@@ -3398,7 +3398,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 063-04;3397;Delphine;LINGEMANN;;0,00;;MDM,LRM;;3397
 063-04;3398;Didier;BRULÉ;;0,00;;RN;;3398
 063-04;3399;François;MAROTTE;;0,00;;LO;;3399
-063-04;3400;Laurent;PRADIER;;0,00;;DVC;;3400
+063-04;3400;Laurent;PRADIER;;0,00;;MDM;;3400
 063-04;3401;Florence;DUBESSY;;0,00;;LR;;3401
 063-05;3402;Brigitte;CARLETTO;;0,00;;RN;;3402
 063-05;3403;Philippe;LE PONT;;0,00;;Parti animaliste;;3403
@@ -3552,7 +3552,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 067-01;3551;Alain;FONTANEL;;0,00;;LRM;;3551
 067-01;3552;Lionel;SAUNER;;0,00;;Parti animaliste;;3552
 067-01;3553;Tamara;VOLOKHOVA;;0,00;;RN;;3553
-067-01;3554;Éric;ELKOUBY;;0,00;;PS;checked;3554
+067-01;3554;Éric;ELKOUBY;;0,00;;DVG;checked;3554
 067-01;3555;Albéric;BARRET;;0,00;;DVE;;3555
 067-01;3556;Jérémy;GOVI;;0,00;;DVG;;3556
 067-01;3557;Frédéric;SEIGLE-MURANDI;;0,00;;DVE;;3557
@@ -3597,7 +3597,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 067-04;3596;Martine;WONNER;;0,00;;DIV;;3596
 067-04;3597;Bénédicte;MATZ;;0,00;;RPS;;3597
 067-04;3598;Alain;NORTH;;0,00;;Parti pirate;;3598
-067-05;3599;Charles;SITZENSTUHL;;0,00;;LRM;;3599
+067-05;3599;Charles;SITZENSTUHL;;0,00;;AGIR,LRM;;3599
 067-05;3600;Sarah;WEISS MOESSMER;;0,00;;RPS;;3600
 067-05;3601;Quentin;MERTZ;;0,00;;DLF;;3601
 067-05;3602;Mélanie;ABASSI;;0,00;;Reconquête;;3602
@@ -3686,7 +3686,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 068-03;3685;Antoine;WAECHTER;;0,00;;DVE;;3685
 068-03;3686;Jean-Denis;ZOELLÉ;;0,00;;RPS;;3686
 068-04;3687;Aimé;SENSE;;0,00;;LO;;3687
-068-04;3688;Sandrine;MAYER;;0,00;;LRM;;3688
+068-04;3688;Sandrine;MAYER;;0,00;;AGIR,LRM;;3688
 068-04;3689;Corinne;MORGEN;;0,00;;DVE;;3689
 068-04;3690;Raphaël;SCHELLENBERGER;;0,00;;LR;;3690
 068-04;3691;Guy;BASCHUNG;;0,00;;RPS;;3691
@@ -3698,7 +3698,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 068-04;3697;Guillaume;REFFAY;;0,00;;EAC;;3697
 068-04;3698;Sylvie;CHRISTOPHE;;0,00;;Patriotes;;3698
 068-04;3699;Chrystelle;GAREL;;0,00;;LFI;;3699
-068-05;3700;Olivier;BECHT;checked;0,00;;LRM;;3700
+068-05;3700;Olivier;BECHT;checked;0,00;;AGIR,LRM;;3700
 068-05;3701;David;DOLUI;;0,00;;DVG;;3701
 068-05;3702;Lionel;OCHE;;0,00;;Patriotes;;3702
 068-05;3703;Alexandre;BARAZI;;0,00;;EAC;;3703
@@ -3728,7 +3728,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 068-06;3727;Bruno;FUCHS;checked;0,00;;MDM,LRM;;3727
 068-06;3728;Dimitri;BREINER;;0,00;;Parti pirate;;3728
 069-01;3729;Anne;PROST;;0,00;;LR;;3729
-069-01;3730;Grégory;DAYME;;0,00;;DVC;;3730
+069-01;3730;Grégory;DAYME;;0,00;;LRM;;3730
 069-01;3731;Thomas;RUDIGOZ;checked;0,00;;LRM;;3731
 069-01;3732;Voliaria;GAGARINE;;0,00;;RN;;3732
 069-01;3733;Celina;VUARIN--APPA PLAZA;;0,00;;Résistons;;3733
@@ -3806,7 +3806,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 069-07;3805;Alain;VACHON;;0,00;;DIV;;3805
 069-07;3806;Nordine;GASMI;;0,00;;DVG;;3806
 069-07;3807;Anna;PAPA;;0,00;;DVD;;3807
-069-07;3808;Izzet;DOGANEL;;0,00;;DVC;;3808
+069-07;3808;Izzet;DOGANEL;;0,00;;LRM;;3808
 069-07;3809;Thomas;SPREUX;;0,00;;LO;;3809
 069-07;3810;Stéphane;GOMEZ;;0,00;;PS;checked;3810
 069-07;3811;Tiffany;JONCOUR;;0,00;;RN;;3811
@@ -3840,7 +3840,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 069-10;3839;Agnès;MARION;;0,00;;Reconquête;;3839
 069-10;3840;Fatiha;CHANELET;;0,00;;Résistons;;3840
 069-10;3841;Sophie;CRUZ;;0,00;;LR;;3841
-069-10;3842;Thomas;GASSILLOUD;checked;0,00;;LRM;;3842
+069-10;3842;Thomas;GASSILLOUD;checked;0,00;;AGIR,LRM;;3842
 069-10;3843;Sébastien;RUIZ;;0,00;;Parti animaliste;;3843
 069-11;3844;Charles;ASCARINO;;0,00;;Reconquête;;3844
 069-11;3845;Isabelle;BROWNING;;0,00;;LO;;3845
@@ -4159,7 +4159,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 075-04;4158;Kevin;GUILLAS-CAVAN;;0,00;;DVG;;4158
 075-04;4159;Brigitte;KUSTER;;0,00;;LR;;4159
 075-05;4160;Assia;MEDDAH;;0,00;;PRG;;4160
-075-05;4161;Arnaud;ABEL;;0,00;;DVC;;4161
+075-05;4161;Arnaud;ABEL;;0,00;;LRM;;4161
 075-05;4162;Annaëlle;GILLE;;0,00;;UDI;;4162
 075-05;4163;Marguerite;VOGT;;0,00;;RN;;4163
 075-05;4164;Pierre;MAURIN;;0,00;;Les Centristes,LR;;4164
@@ -4219,10 +4219,10 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 075-09;4218;Carole Isabelle Gabrielle;ROUSSEL;;0,00;;RN;;4218
 075-09;4219;Laurent;MIERMONT;;0,00;;FGR;;4219
 075-09;4220;Irène;LABUS;;0,00;;Patriotes;;4220
-075-09;4221;Sandrine;ROUSSEAU;;0,00;;MdR;;4221
+075-09;4221;Sandrine;ROUSSEAU;;0,00;;EE-LV;;4221
 075-10;4222;Anne-Christine;LANG;checked;0,00;;LRM;;4222
 075-10;4223;Rodrigo;ARENAS;;0,00;;LFI;;4223
-075-10;4224;Michel Abdul Wahid;GOLDSTEIN;;0,00;;DIV;;4224
+075-10;4224;Michel Abdul Wahid;GOLDSTEIN;;0,00;;LRM;;4224
 075-10;4225;Jacqueline;DENEUVE;;0,00;;Résistons;;4225
 075-10;4226;Anne-Sophie;HONGRE;;0,00;;Reconquête;;4226
 075-10;4227;Wallerand;DE SAINT JUST;;0,00;;RN;;4227
@@ -4321,11 +4321,11 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 075-17;4320;Kolia;BÉNIÉ;;0,00;;LRM;;4320
 075-17;4321;Annie;CLEMENT;;0,00;;DVD;;4321
 075-17;4322;Siwar;LARGUECH;;0,00;;DVG;;4322
-075-18;4323;Johannes Christoph;LEININGER;;0,00;;DIV;;4323
+075-18;4323;Johannes Christoph;LEININGER;;0,00;;DVE;;4323
 075-18;4324;Pierre-Yves;BOURNAZEL;checked;0,00;;Horizons,LRM;;4324
 075-18;4325;Julia;CARRASCO;;0,00;;RN;;4325
 075-18;4326;Axelle;LE GAL DE KERANGAL;;0,00;;Reconquête;;4326
-075-18;4327;Laurent;BOULA;;0,00;;DVD;;4327
+075-18;4327;Laurent;BOULA;;0,00;;DIV;;4327
 075-18;4328;Philippe Heracles Charles;CAMBOURAKIS;;0,00;;DIV;;4328
 075-18;4329;Nicolas;RAVAILHE;;0,00;;FGR;;4329
 075-18;4330;Victor;LE;;0,00;;DIV;;4330
@@ -4418,7 +4418,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 076-09;4417;Marie-Agnès;POUSSIER-WINSBACK;;0,00;;Horizons,LRM;;4417
 076-09;4418;Stéphanie;FOUANI;;0,00;;LFI;;4418
 076-09;4419;Nicolas;GOURY;;0,00;;RN;;4419
-076-09;4420;Victor;FOURNIER;;0,00;;DVC;;4420
+076-09;4420;Victor;FOURNIER;;0,00;;LRM;;4420
 076-09;4421;Annabelle;BETEMPS FOLAIN;;0,00;;DIV;;4421
 076-09;4422;Mickaël;BARON;;0,00;;FGR;;4422
 076-09;4423;Carole;SERVAIS;;0,00;;Parti animaliste;;4423
@@ -4474,7 +4474,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 077-04;4473;Isabelle;PERIGAULT;;0,00;;LR;;4473
 077-04;4474;Frederic;VENANT;;0,00;;Reconquête;;4474
 077-04;4475;Audrey Roseline;ROUSSET;;0,00;;MdR;;4475
-077-04;4476;Jean-Philippe;DELVAUX;;0,00;;LRM;;4476
+077-04;4476;Jean-Philippe;DELVAUX;;0,00;;AGIR,LRM;;4476
 077-04;4477;Aymeric;DUROX;;0,00;;RN;;4477
 077-04;4478;Jean-Yves;GAUDEY;;0,00;;LO;;4478
 077-04;4479;Mathieu;GARNIER;;0,00;;LFI;;4479
@@ -4492,7 +4492,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 077-05;4491;Marie-Pierre;CHEVALLIER;;0,00;;DVE;;4491
 077-05;4492;Redouane;DAHMANE;;0,00;;UDMF;;4492
 077-06;4493;Claire;MURCIA;;0,00;;Reconquête;;4493
-077-06;4494;Fatna;MEKIDICHE;;0,00;;LRM;;4494
+077-06;4494;Fatna;MEKIDICHE;;0,00;;AGIR,LRM;;4494
 077-06;4495;Valentin;SALAMONE;;0,00;;DLF;;4495
 077-06;4496;Nathalie;MOINE;;0,00;;FGR;;4496
 077-06;4497;Béatrice;ROULLAUD;;0,00;;RN;;4497
@@ -4538,7 +4538,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 077-10;4537;Olivier;HENNEBELLE;;0,00;;Parti animaliste;;4537
 077-10;4538;Philippe;DERVAUX;;0,00;;Reconquête;;4538
 077-10;4539;Cathy;FRANCISCO;;0,00;;RN;;4539
-077-10;4540;Olivier;DE SOUSA;;0,00;;DVC;;4540
+077-10;4540;Olivier;DE SOUSA;;0,00;;LRM;;4540
 077-10;4541;Ingrid;CAILLIS-BRANDL;;0,00;;LR;;4541
 077-10;4542;Alain;BOUIS;;0,00;;Patriotes;;4542
 077-10;4543;Sylvain;CAYARD;;0,00;;LO;;4543
@@ -4556,7 +4556,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 078-01;4555;Iphigénie;KAMENI;;0,00;;Les Centristes,LR;;4555
 078-01;4556;Christophe;AUGER;;0,00;;EXG;;4556
 078-01;4557;Sylvie;JEGOU;;0,00;;Patriotes;;4557
-078-01;4558;Charles;RODWELL;;0,00;;LRM;;4558
+078-01;4558;Charles;RODWELL;;0,00;;AGIR,LRM;;4558
 078-01;4559;Anne;JACQMIN;;0,00;;RN;;4559
 078-01;4560;Sébastien;RAMAGE;;0,00;;LFI;;4560
 078-01;4561;Margaux-Charlotte;GRESPIER;;0,00;;Parti animaliste;;4561
@@ -4577,7 +4577,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 078-03;4576;Ayse;ASLAN;;0,00;;DLF;;4576
 078-03;4577;Béatrice;PIRON;checked;0,00;;LRM;;4577
 078-03;4578;Caroline;NIEBEL;;0,00;;MdR;;4578
-078-03;4579;Isabelle;GUIGARD;;0,00;;DVE;;4579
+078-03;4579;Isabelle;GUIGARD;;0,00;;DIV;;4579
 078-03;4580;Jean-François;CUIGNET;;0,00;;Reconquête;;4580
 078-03;4581;Pierre-Yves;PINCHAUX;;0,00;;RN;;4581
 078-03;4582;Olivier;AUGUSTIN;;0,00;;LO;;4582
@@ -4594,11 +4594,11 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 078-05;4593;Mathilde;ANDROUËT;;0,00;;RN;;4593
 078-05;4594;Maxence;BRINGUIER;;0,00;;Reconquête;;4594
 078-05;4595;Alexandra;DUBLANCHE;;0,00;;LR;;4595
-078-05;4596;Diane;LAGRANGE;;0,00;;DVG;;4596
+078-05;4596;Diane;LAGRANGE;;0,00;;DVD;;4596
 078-05;4597;Alain;LÉPICIER;;0,00;;LO;;4597
 078-05;4598;Sophie;THEVENET;;0,00;;LFI;;4598
 078-05;4599;Yaël;BRAUN-PIVET;checked;0,00;;LRM;;4599
-078-05;4600;Amélie;THEROND KERAUDREN;;0,00;;DVD;;4600
+078-05;4600;Amélie;THEROND KERAUDREN;;0,00;;UDI;;4600
 078-05;4601;Jean-Luc;DENÉ;;0,00;;Parti animaliste;;4601
 078-05;4602;Katia;VOISIN;;0,00;;Patriotes;;4602
 078-06;4603;Mélinda;SAUGER;;0,00;;LFI;;4603
@@ -4646,7 +4646,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 078-09;4645;Bruno;MILLIENNE;checked;0,00;;MDM,LRM;;4645
 078-09;4646;Aïcha;IHIA;;0,00;;UDMF;;4646
 078-09;4647;Rachid;ZEROUALI;;0,00;;DVD;;4647
-078-09;4648;Fatma;LAMIR;;0,00;;DVD;;4648
+078-09;4648;Fatma;LAMIR;;0,00;;DIV;;4648
 078-09;4649;Pauline;WINOCOUR LEFEVRE;;0,00;;LR;;4649
 078-09;4650;Victor;PAILHAC;;0,00;;LFI;;4650
 078-10;4651;Anne;CABRIT;;0,00;;LR;;4651
@@ -4684,7 +4684,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 079-01;4683;Bastien;MARCHIVE;;0,00;;LRM;;4683
 079-01;4684;Matylde;BRETHENOUX;;0,00;;Reconquête;;4684
 079-01;4685;Danielle;VAUZELLE;;0,00;;LO;;4685
-079-01;4686;Guillaume;CHICHE;;0,00;;DVC;;4686
+079-01;4686;Guillaume;CHICHE;;0,00;;DVE;;4686
 079-01;4687;Dorothée;CHAMPEAU;;0,00;;RN;;4687
 079-01;4688;Geneviève;MASSON;;0,00;;DIV;;4688
 079-01;4689;François;CHARRON;;0,00;;LFI;;4689
@@ -4706,7 +4706,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 079-03;4705;Philippe;ROBIN;;0,00;;LR;;4705
 080-01;4706;Mathilde;ROY;;0,00;;LR;;4706
 080-01;4707;Pascal;RIFFLART;;0,00;;LRM;;4707
-080-01;4708;Pascal;FRADCOURT;;0,00;;DVC;;4708
+080-01;4708;Pascal;FRADCOURT;;0,00;;LRM;;4708
 080-01;4709;Noé;BOXOËN;;0,00;;DLF;;4709
 080-01;4710;Pascal;SCRIBE;;0,00;;Reconquête;;4710
 080-01;4711;Nathalie;RIBEIRO-BILLET;;0,00;;RN;;4711
@@ -4996,7 +4996,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 085-04;4995;Amine;UMLIL;;0,00;;DLF;;4995
 085-04;4996;Erick;MAROLLEAU;;0,00;;MdR;;4996
 085-04;4997;Véronique;BESSE;;0,00;;DVD;;4997
-085-04;4998;Denis;LE BARS;;0,00;;DVD;;4998
+085-04;4998;Denis;LE BARS;;0,00;;DVC;;4998
 085-04;4999;Virginie;FOUQUET;;0,00;;SOUV;;4999
 085-04;5000;Claude;BOUR;;0,00;;LO;;5000
 085-04;5001;Céline;SAUVÊTRE;;0,00;;PCF;;5001
@@ -5018,7 +5018,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 086-01;5017;Ludovic;GAILLARD;;0,00;;LO;;5017
 086-01;5018;Lisa;BELLUCO;;0,00;;EE-LV;;5018
 086-01;5019;Elise;FARINE;;0,00;;Parti animaliste;;5019
-086-01;5020;Idriss;LAADNANI;;0,00;;LFI;;5020
+086-01;5020;Idriss;LAADNANI;;0,00;;EXG;;5020
 086-01;5021;Jeannot;ASSOUMANI;;0,00;;UDMF;;5021
 086-01;5022;Corine;JARRY;;0,00;;DLF;;5022
 086-01;5023;Jérôme;NEVEUX;;0,00;;UDI;;5023
@@ -5029,7 +5029,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 086-02;5028;Aurélien;DESSAUX;;0,00;;DVD;;5028
 086-02;5029;Roselyne;DU CHAMBON;;0,00;;Patriotes;;5029
 086-02;5030;Céline;PHILIPPE;;0,00;;RN;;5030
-086-02;5031;Maryse;FERREIRA;;0,00;;LFI;;5031
+086-02;5031;Maryse;FERREIRA;;0,00;;EXG;;5031
 086-02;5032;Agnes;CHAUVIN;;0,00;;LO;;5032
 086-02;5033;Sacha;HOULIÉ;checked;0,00;;LRM;;5033
 086-02;5034;Soifidine;OUSSENI;;0,00;;UDMF;;5034
@@ -5120,7 +5120,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 088-04;5119;François-Xavier;WEIN;;0,00;;LFI;;5119
 088-04;5120;Thierry;MORALES;;0,00;;Parti animaliste;;5120
 088-04;5121;Camille;BAILLY;;0,00;;LO;;5121
-088-04;5122;Joris;HURIOT;;0,00;;PS;checked;5122
+088-04;5122;Joris;HURIOT;;0,00;;DVG;checked;5122
 089-01;5123;Paul;TÉQUI;;0,00;;Reconquête;;5123
 089-01;5124;Jean-Charles;KERMIN;;0,00;;EXG;;5124
 089-01;5125;Sylvie;MANIGAUT;;0,00;;LO;;5125
@@ -5161,7 +5161,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 090-01;5160;Kévin;BARATAY;;0,00;;MdR;;5160
 090-01;5161;Christophe;SOUSTELLE;;0,00;;RN;;5161
 090-02;5162;Florian;CHAUCHE;;0,00;;LFI;;5162
-090-02;5163;Didier;VALLVERDU;;0,00;;DVD;;5163
+090-02;5163;Didier;VALLVERDU;;0,00;;LR;;5163
 090-02;5164;Christelle;HANNA;;0,00;;DLF;;5164
 090-02;5165;Baptiste;PETITJEAN;;0,00;;MDM,LRM;;5165
 090-02;5166;Marc;ARCHAMBAULT;;0,00;;EXD;;5166
@@ -5184,13 +5184,13 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 091-02;5183;Eveline;BRYON;;0,00;;Reconquête;;5183
 091-02;5184;Mama;SY;;0,00;;DVD;;5184
 091-02;5185;Naïma;SIFER;;0,00;;Horizons,LRM;;5185
-091-02;5186;François;PAROLINI;;0,00;;DVG;;5186
+091-02;5186;François;PAROLINI;;0,00;;DIV;;5186
 091-02;5187;Jean-Philippe;DUGOIN-CLEMENT;;0,00;;UDI;;5187
 091-02;5188;Nathalie;DA CONCEICAO CARVALHO;;0,00;;RN;;5188
 091-02;5189;Mathieu;HILLAIRE;;0,00;;LFI;;5189
 091-02;5190;Mathilde;PHAN HIEU;;0,00;;LO;;5190
 091-02;5191;Pascal;LEMAIRE;;0,00;;Parti animaliste;;5191
-091-02;5192;Antonin;MORELLE;;0,00;;DVD;;5192
+091-02;5192;Antonin;MORELLE;;0,00;;DVE;;5192
 091-02;5193;Vincent;BIELAK;;0,00;;SOUV;;5193
 091-03;5194;Joëlle;LOPÈS-VENOT;;0,00;;LO;;5194
 091-03;5195;Mehdi;KEMOUNE;;0,00;;FGR;;5195
@@ -5202,7 +5202,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 091-03;5201;Shéhérazade;CHAA BENAHMED;;0,00;;Reconquête;;5201
 091-03;5202;Alice;MOREIRA;;0,00;;Patriotes;;5202
 091-03;5203;Steevy;GUSTAVE;;0,00;;EE-LV;;5203
-091-03;5204;Paul-Henri;BAURE;;0,00;;DVE;;5204
+091-03;5204;Paul-Henri;BAURE;;0,00;;DIV;;5204
 091-04;5205;Jean-Pierre;COQUELET;;0,00;;Parti animaliste;;5205
 091-04;5206;François;LA SELVE;;0,00;;Reconquête;;5206
 091-04;5207;Alain;BOUTALEB;;0,00;;RN;;5207
@@ -5210,7 +5210,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 091-04;5209;Agathe;SCACHE;;0,00;;DVC;;5209
 091-04;5210;Jérémy;MARTIN;;0,00;;LR;;5210
 091-04;5211;Martin;LOIZILLON;;0,00;;DIV;;5211
-091-04;5212;Miriam;DJABALI;;0,00;;DVC;;5212
+091-04;5212;Miriam;DJABALI;;0,00;;LRM;;5212
 091-04;5213;Marie-Pierre;RIXAIN;checked;0,00;;LRM;;5213
 091-04;5214;Amadou;DEME;;0,00;;PCF;;5214
 091-04;5215;Iliane;POLIZZO;;0,00;;DVE;;5215
@@ -5227,7 +5227,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 091-06;5226;Ecaterina;ASKAR;;0,00;;Patriotes;;5226
 091-06;5227;Wendy;LONCHAMPT;;0,00;;Reconquête;;5227
 091-06;5228;Chantal;LACARRIERE;;0,00;;LR;;5228
-091-06;5229;Mokrane;SAHARI;;0,00;;DVD;;5229
+091-06;5229;Mokrane;SAHARI;;0,00;;DIV;;5229
 091-06;5230;Elisabeth;PIOTELAT;;0,00;;Parti pirate;;5230
 091-06;5231;Lisa;HADDAD;;0,00;;RN;;5231
 091-06;5232;Jules;ROHAULT DE FLEURY;;0,00;;DVE;;5232
@@ -5245,10 +5245,10 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 091-07;5244;Jacques;RACINE;;0,00;;DIV;;5244
 091-07;5245;Marc;HOQUET;;0,00;;LO;;5245
 091-07;5246;Audrey;GUIBERT;;0,00;;RN;;5246
-091-07;5247;Olivier;VAGNEUX;;0,00;;DVE;;5247
+091-07;5247;Olivier;VAGNEUX;;0,00;;DIV;;5247
 091-07;5248;Claire;LEJEUNE;;0,00;;LFI;;5248
 091-07;5249;Josselyne;RIGOLLET;;0,00;;Patriotes;;5249
-091-07;5250;Catherine;BOMPARD;;0,00;;DVE;;5250
+091-07;5250;Catherine;BOMPARD;;0,00;;DIV;;5250
 091-08;5251;Nicolas;DUPONT-AIGNAN;checked;0,00;;DLF;;5251
 091-08;5252;Emilie;CHAZETTE-GUILLET;;0,00;;LFI;;5252
 091-08;5253;Nicolas;DOHIN;;0,00;;LR;;5253
@@ -5267,8 +5267,8 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 091-09;5266;Nadhera;BELETRECHE;;0,00;;EE-LV;;5266
 091-10;5267;Sandrine;BELLON;;0,00;;DIV;;5267
 091-10;5268;Nicolas;DE BOISHUE;;0,00;;LR;;5268
-091-10;5269;Sabrine;AZZOUNI;;0,00;;REG;;5269
-091-10;5270;Mustapha;ZAOUI;;0,00;;DVE;;5270
+091-10;5269;Sabrine;AZZOUNI;;0,00;;DIV;;5269
+091-10;5270;Mustapha;ZAOUI;;0,00;;DIV;;5270
 091-10;5271;Nadia;CARCASSET;;0,00;;LRM;;5271
 091-10;5272;Monique;LECLERC;;0,00;;LO;;5272
 091-10;5273;Hanna;REHAB;;0,00;;DVE;;5273
@@ -5279,7 +5279,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 091-10;5278;Antoine;LÉAUMENT;;0,00;;LFI;;5278
 092-01;5279;Abdelaziz;BENTAJ;;0,00;;LR;;5279
 092-01;5280;Corinne;DANGAS;;0,00;;Parti pirate;;5280
-092-01;5281;Gaël;QUIRANTE;;0,00;;EXG;;5281
+092-01;5281;Gaël;QUIRANTE;;0,00;;NPA;;5281
 092-01;5282;Samir;BOUMEDIENNE;;0,00;;UDMF;;5282
 092-01;5283;Anna;LE GAL;;0,00;;DVE;;5283
 092-01;5284;Marie-Laure;DÉCAILLET;;0,00;;Reconquête;;5284
@@ -5288,7 +5288,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 092-01;5287;Gary;CHOLLET;;0,00;;Parti animaliste;;5287
 092-01;5288;Zina;BOUNAB;;0,00;;LO;;5288
 092-01;5289;Elsa;FAUCILLON;checked;0,00;;PCF;;5289
-092-01;5290;Marie-Ange;BADIN;;0,00;;LRM;;5290
+092-01;5290;Marie-Ange;BADIN;;0,00;;AGIR,LRM;;5290
 092-02;5291;Christel;ISAAC;;0,00;;DVE;;5291
 092-02;5292;Laurent;MARTIN SAINT LEON;;0,00;;DVC;;5292
 092-02;5293;Marine;DAGEVILLE;;0,00;;NPA;;5293
@@ -5305,7 +5305,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 092-02;5304;Michel;FABRE;;0,00;;LO;;5304
 092-02;5305;Philippe;MILLOT;;0,00;;RN;;5305
 092-03;5306;Aurélie;TAQUILLAIN;;0,00;;LRM;;5306
-092-03;5307;Barthelemy;PIRON;;0,00;;EXG;;5307
+092-03;5307;Barthelemy;PIRON;;0,00;;NPA;;5307
 092-03;5308;Abdel;BELKADI;;0,00;;UDMF;;5308
 092-03;5309;Agnès;LAFFITE;;0,00;;RN;;5309
 092-03;5310;Béatrice;BAUDRANT;;0,00;;DIV;;5310
@@ -5319,8 +5319,8 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 092-04;5318;Michel;ALLAIN;;0,00;;EXG;;5318
 092-04;5319;Habiba;BIGDADE;;0,00;;FGR;;5319
 092-04;5320;Florence;MULLER;;0,00;;Reconquête;;5320
-092-04;5321;Philippe;COMBAZ;;0,00;;DVE;;5321
-092-04;5322;Valéry;BARNY;;0,00;;DVE;;5322
+092-04;5321;Philippe;COMBAZ;;0,00;;DIV;;5321
+092-04;5322;Valéry;BARNY;;0,00;;DIV;;5322
 092-04;5323;Isabelle;FLORENNES;;0,00;;MDM,LRM;;5323
 092-04;5324;Sabrina;SEBAIHI;;0,00;;EE-LV;;5324
 092-04;5325;Mélina;BRAVO;;0,00;;RN;;5325
@@ -5332,22 +5332,22 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 092-05;5331;Pierre;CHASSAT;;0,00;;LR;;5331
 092-05;5332;Agnieszka;GEBARSKA;;0,00;;RN;;5332
 092-05;5333;Fabrice;GAROYAN;;0,00;;DLF;;5333
-092-05;5334;Rezk;SEHATA;;0,00;;DVE;;5334
+092-05;5334;Rezk;SEHATA;;0,00;;DIV;;5334
 092-05;5335;Sonia;RABOTOSON;;0,00;;DVD;;5335
 092-05;5336;Oussama;ADREF;;0,00;;UDMF;;5336
 092-05;5337;Zaya;GACEM;;0,00;;EXG;;5337
 092-05;5338;Cyril;CROSNIER LECONTE;;0,00;;Parti animaliste;;5338
-092-05;5339;Mina;KHALIL;;0,00;;EXG;;5339
+092-05;5339;Mina;KHALIL;;0,00;;NPA;;5339
 092-05;5340;Caroline;MERCIER;;0,00;;DIV;;5340
 092-05;5341;Léa;DRUET;;0,00;;LFI;;5341
 092-05;5342;Céline;CALVEZ;checked;0,00;;LRM;;5342
 092-05;5343;Alexandre;ROUSSET-LEBLOND;;0,00;;Reconquête;;5343
-092-06;5344;Denis Marie;MARCHISET;;0,00;;DVE;;5344
+092-06;5344;Denis Marie;MARCHISET;;0,00;;Parti animaliste;;5344
 092-06;5345;Fayza;BASINI;;0,00;;LRM;checked;5345
 092-06;5346;Benoit;AGUELON;;0,00;;MdR;;5346
 092-06;5347;Franck;KELLER;;0,00;;Reconquête;;5347
 092-06;5348;Bilèle;KHADOUR;;0,00;;UDMF;;5348
-092-06;5349;Adama;TRAORE;;0,00;;DVC;;5349
+092-06;5349;Adama;TRAORE;;0,00;;LRM;;5349
 092-06;5350;Julie;BARBAUX;;0,00;;LFI;;5350
 092-06;5351;Frank;TAPIRO;;0,00;;DVC;;5351
 092-06;5352;Patrick;PESSIS;;0,00;;LR;;5352
@@ -5356,7 +5356,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 092-06;5355;Constance;LE GRIP;checked;0,00;;LRM;;5355
 092-07;5356;Jeanne;BIRTIC;;0,00;;Patriotes;;5356
 092-07;5357;Agnès;DUMONT;;0,00;;Reconquête;;5357
-092-07;5358;Anne Denis Mercedes;BROCHOT;;0,00;;EXG;;5358
+092-07;5358;Anne Denis Mercedes;BROCHOT;;0,00;;DIV;;5358
 092-07;5359;Sandro;RATO;;0,00;;LFI;;5359
 092-07;5360;Pascal;HALARY;;0,00;;DIV;;5360
 092-07;5361;Guillaume;HLAVACEK;;0,00;;Parti pirate;;5361
@@ -5400,7 +5400,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 092-10;5399;Léa;BESSIÈRES;;0,00;;Reconquête;;5399
 092-10;5400;Vanessa;RONCHINI;;0,00;;NPA;;5400
 092-11;5401;Mustapha;SEHILI;;0,00;;UDMF;;5401
-092-11;5402;Xavier;CHIARELLI;;0,00;;EXG;;5402
+092-11;5402;Xavier;CHIARELLI;;0,00;;NPA;;5402
 092-11;5403;Juliette;CHATELAIN;;0,00;;RN;;5403
 092-11;5404;Philippe;PONGE;;0,00;;DIV;;5404
 092-11;5405;Aurélien;SAINTOUL;;0,00;;LFI;;5405
@@ -5441,7 +5441,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 093-01;5440;Marianne;DARMON;;0,00;;DVG;;5440
 093-01;5441;Alain;AUBRY;;0,00;;LO;;5441
 093-01;5442;François;PÉGUILLET;;0,00;;LR;;5442
-093-01;5443;Jérôme;HIRIGOYEN;;0,00;;DVE;;5443
+093-01;5443;Jérôme;HIRIGOYEN;;0,00;;Parti animaliste;;5443
 093-01;5444;Francois;DEROCHE;;0,00;;DVC;;5444
 093-01;5445;Olga;EDE;;0,00;;DVC;;5445
 093-01;5446;Anne-Solenne;BUSCH;;0,00;;Reconquête;;5446
@@ -5455,7 +5455,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 093-02;5454;Luc;COLOMAS;;0,00;;RN;;5454
 093-02;5455;Anaïs;BROOD;;0,00;;MDM,LRM;;5455
 093-02;5456;Agnès;RENAUD;;0,00;;LO;;5456
-093-02;5457;Aurélien;PICHARD;;0,00;;DVE;;5457
+093-02;5457;Aurélien;PICHARD;;0,00;;Parti animaliste;;5457
 093-02;5458;Aurélia;BARDY;;0,00;;Reconquête;;5458
 093-02;5459;Christelle;VÉTIL;;0,00;;UDI;;5459
 093-03;5460;Denis;CRETIN-GIELLY;;0,00;;RN;;5460
@@ -5468,25 +5468,25 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 093-03;5467;Fathia;CHELKI;;0,00;;UDMF;;5467
 093-03;5468;Maëlle;GAUCHERAND;;0,00;;LO;;5468
 093-03;5469;Albert;MELKA;;0,00;;FGR;;5469
-093-03;5470;Nathalie;AMOUROUX;;0,00;;DVE;;5470
+093-03;5470;Nathalie;AMOUROUX;;0,00;;Parti animaliste;;5470
 093-03;5471;Geneviève;ENAUD;;0,00;;EXG;;5471
 093-03;5472;Myriam;BORDREUIL;;0,00;;Reconquête;;5472
 093-03;5473;Sandrine;CAMPANA;;0,00;;Patriotes;;5473
 093-04;5474;Aly;DIOUARA;;0,00;;DIV;;5474
 093-04;5475;Marlène;LEY;;0,00;;LO;;5475
-093-04;5476;Azzédine;TAÏBI;;0,00;;DVG;;5476
+093-04;5476;Azzédine;TAÏBI;;0,00;;PCF;;5476
 093-04;5477;Soumya;BOUROUAHA;;0,00;;PCF;;5477
-093-04;5478;Stéphane;SOURDILLAT;;0,00;;DVE;;5478
+093-04;5478;Stéphane;SOURDILLAT;;0,00;;Parti animaliste;;5478
 093-04;5479;Sabine;DESBOEUF;;0,00;;EXG;;5479
 093-04;5480;Colette;LÉVÊQUE;;0,00;;RN;;5480
 093-04;5481;Zouhairr;ECH-CHETOUANI;;0,00;;UDMF;;5481
-093-04;5482;Lova;RINEL;;0,00;;LRM;;5482
+093-04;5482;Lova;RINEL;;0,00;;AGIR,LRM;;5482
 093-04;5483;Vanessa;PETTITT;;0,00;;Reconquête;;5483
 093-04;5484;Marie-Claude;GOUREAU;;0,00;;LR;;5484
 093-04;5485;Sonia;ATTIG;;0,00;;DVG;;5485
 093-05;5486;Nelly;LESTRADET;;0,00;;RN;;5486
 093-05;5487;Corinne;CORBANI;;0,00;;EXG;;5487
-093-05;5488;Geoffroy;DESBOIS;;0,00;;DVE;;5488
+093-05;5488;Geoffroy;DESBOIS;;0,00;;Parti animaliste;;5488
 093-05;5489;Raynald;ROUECHE;;0,00;;DVC;;5489
 093-05;5490;Raphaël;LIBERT;;0,00;;Reconquête;;5490
 093-05;5491;Raquel;GARRIDO;;0,00;;LFI;;5491
@@ -5505,12 +5505,12 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 093-06;5504;Nabila;DJEBBARI;;0,00;;DVG;;5504
 093-06;5505;Nathalie;ARTHAUD;;0,00;;LO;;5505
 093-06;5506;Bastien;LACHAUD;checked;0,00;;LFI;;5506
-093-06;5507;Aïcha;BOURAK;;0,00;;DIV;;5507
+093-06;5507;Aïcha;BOURAK;;0,00;;SOUV;;5507
 093-06;5508;Yasmina;BAZIZ;;0,00;;LRM;;5508
 093-06;5509;Noélie;BEUGRÉ;;0,00;;Reconquête;;5509
 093-06;5510;Aymane;MABIALA;;0,00;;Parti pirate;;5510
 093-07;5511;Hamid;CHAIR;;0,00;;PRG;;5511
-093-07;5512;Catherine;DEHAY;;0,00;;DVE;;5512
+093-07;5512;Catherine;DEHAY;;0,00;;Parti animaliste;;5512
 093-07;5513;Marie-Laure;BROSSIER;;0,00;;LRM;;5513
 093-07;5514;Aurélie;JOCHAUD;;0,00;;LO;;5514
 093-07;5515;Myriam;MEHIDI;;0,00;;Reconquête;;5515
@@ -5523,7 +5523,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 093-08;5522;Grégory;TOBEILEM;;0,00;;LO;;5522
 093-08;5523;Sébastien;JOLIVET;;0,00;;RN;;5523
 093-08;5524;Hugo;GUIRAUDOU;;0,00;;FGR;;5524
-093-08;5525;Corinne;FOURNIER;;0,00;;DVE;;5525
+093-08;5525;Corinne;FOURNIER;;0,00;;Parti animaliste;;5525
 093-08;5526;Fatiha;KELOUA HACHI;;0,00;;PS;;5526
 093-08;5527;Sylvio;VALENTE;;0,00;;Reconquête;;5527
 093-08;5528;Geoffrey;CARVALHINHO;;0,00;;LR;;5528
@@ -5536,7 +5536,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 093-09;5535;Robenson;PIERRE;;0,00;;LR;;5535
 093-09;5536;Alexandre;SAADA;;0,00;;MDM,LRM;;5536
 093-09;5537;Laure;GARRIGUE;;0,00;;Reconquête;;5537
-093-09;5538;Carole;FITOUSSI;;0,00;;DVE;;5538
+093-09;5538;Carole;FITOUSSI;;0,00;;Parti animaliste;;5538
 093-09;5539;Jean-Paul;LEFEBVRE;;0,00;;FGR;;5539
 093-09;5540;Aloïs;LANG-ROUSSEAU;;0,00;;DVE;;5540
 093-09;5541;Atmane;BADACHE;;0,00;;DIV;;5541
@@ -5544,21 +5544,21 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 093-09;5543;Jean-Paul;BUROT;;0,00;;LO;;5543
 093-09;5544;Cécile;ODOYER;;0,00;;EXG;;5544
 093-10;5545;Sylvie;GUY;;0,00;;EXG;;5545
-093-10;5546;Jean-Ludwig;MALARD;;0,00;;DVE;;5546
+093-10;5546;Jean-Ludwig;MALARD;;0,00;;Parti animaliste;;5546
 093-10;5547;Alain;RAMADIER;checked;0,00;;LR;;5547
-093-10;5548;Leïla;ABDELLAOUI;;0,00;;DVC;;5548
+093-10;5548;Leïla;ABDELLAOUI;;0,00;;LRM;;5548
 093-10;5549;Elhame;HIMMI;;0,00;;UDMF;;5549
-093-10;5550;Mohamed;BOUNOUA;;0,00;;DVC;;5550
+093-10;5550;Mohamed;BOUNOUA;;0,00;;Horizons;;5550
 093-10;5551;Abdelssamad;SRAI;;0,00;;DIV;;5551
 093-10;5552;Sonia;BAKHTI-ALOUT;;0,00;;Horizons,LRM;;5552
 093-10;5553;Nadège;ABOMANGOLI;;0,00;;LFI;;5553
 093-10;5554;Gaëtan;MINARDI;;0,00;;LO;;5554
 093-10;5555;Praince Germain;LOUBOTA;;0,00;;Reconquête;;5555
 093-10;5556;Pauline;CHATEAU;;0,00;;RN;;5556
-093-11;5557;Ton Tona;KHUL;;0,00;;DVD;;5557
+093-11;5557;Ton Tona;KHUL;;0,00;;LR;;5557
 093-11;5558;François;MERETREL;;0,00;;UDMF;;5558
 093-11;5559;Lynda;AÏT MESGHAT;;0,00;;UDI;;5559
-093-11;5560;Jean-Pierre;LEVERRIER;;0,00;;DVE;;5560
+093-11;5560;Jean-Pierre;LEVERRIER;;0,00;;Parti animaliste;;5560
 093-11;5561;Isabelle;COUFFIN-GUÉRIN;;0,00;;LO;;5561
 093-11;5562;Emmanuel;NAUD;;0,00;;LR;;5562
 093-11;5563;Clémentine;AUTAIN;checked;0,00;;LFI;;5563
@@ -5566,9 +5566,9 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 093-11;5565;Hakima;OUARET;;0,00;;LRM;;5565
 093-11;5566;Renée;JOLY;;0,00;;RN;;5566
 093-11;5567;Virginie;DE CARVALHO;;0,00;;PCF;checked;5567
-093-11;5568;Fabrice;SCAGNI;;0,00;;DVC;;5568
+093-11;5568;Fabrice;SCAGNI;;0,00;;LRM;;5568
 093-11;5569;Guillemette;DUSAUSOY;;0,00;;Reconquête;;5569
-093-12;5570;Malik;HOUHA;;0,00;;DVE;;5570
+093-12;5570;Malik;HOUHA;;0,00;;Parti animaliste;;5570
 093-12;5571;Sophie;CICERO;;0,00;;EXG;;5571
 093-12;5572;Mariam;CISSE;;0,00;;REG;;5572
 093-12;5573;Ludovic;TORO;;0,00;;UDI;;5573
@@ -5590,14 +5590,14 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 094-01;5589;Laurent;JOLLY;;0,00;;RN;;5589
 094-01;5590;Françoise;LE PARC;;0,00;;PCF;checked;5590
 094-01;5591;Germain;ROESCH;;0,00;;LR;;5591
-094-01;5592;Géraldine;TELLE;;0,00;;DIV;;5592
+094-01;5592;Géraldine;TELLE;;0,00;;LRM;;5592
 094-02;5593;Clémence;GUETTÉ;;0,00;;LFI;;5593
 094-02;5594;Josefa;TORRES;;0,00;;LO;;5594
 094-02;5595;Françoise;ROUSSEL;;0,00;;EXG;;5595
 094-02;5596;Eloïse;LAVAL;;0,00;;Reconquête;;5596
 094-02;5597;Elsa;DERANSART;;0,00;;FGR;;5597
 094-02;5598;Céline;SUIN;;0,00;;Parti animaliste;;5598
-094-02;5599;Salika;AMARA;;0,00;;DIV;;5599
+094-02;5599;Salika;AMARA;;0,00;;DVE;;5599
 094-02;5600;Antoine;GHAYE;;0,00;;RN;;5600
 094-02;5601;Frédéric;DRUART;;0,00;;LR;;5601
 094-02;5602;Coline;LARDEUX;;0,00;;PRG;;5602
@@ -5607,7 +5607,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 094-03;5606;Tom;BRY-CHEVALIER;;0,00;;Parti animaliste;;5606
 094-03;5607;Guillaume;POIRET;;0,00;;PRG;;5607
 094-03;5608;Louis;BOYARD;;0,00;;LFI;;5608
-094-03;5609;Blueez;ORKIDEZ;;0,00;;LFI;checked;5609
+094-03;5609;Blueez;ORKIDEZ;;0,00;;DVG;checked;5609
 094-03;5610;Lucien;NOAILE;;0,00;;LO;;5610
 094-03;5611;Naoual;HAMZAOUI;;0,00;;MdR;;5611
 094-03;5612;Laurent;SAINT-MARTIN;checked;0,00;;LRM;;5612
@@ -5619,7 +5619,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 094-04;5618;Maud;PETIT;checked;0,00;;MDM,LRM;;5618
 094-04;5619;Mirabelle;LEMAIRE;;0,00;;LFI;;5619
 094-04;5620;Alain;PHILIPPET;;0,00;;RN;;5620
-094-04;5621;Denis;VICENT;;0,00;;PCF;checked;5621
+094-04;5621;Denis;VICENT;;0,00;;;checked;5621
 094-04;5622;Marie-Carole;CIUNTU;;0,00;;LR;;5622
 094-04;5623;Gerard;SCOTTO;;0,00;;Patriotes;;5623
 094-04;5624;Isabelle;YVOS;;0,00;;Parti animaliste;;5624
@@ -5661,7 +5661,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 094-07;5660;Ugo;IANNUZZI;;0,00;;RN;;5660
 094-07;5661;Vincent;JEANBRUN;;0,00;;LR;;5661
 094-07;5662;Roxana;MARACINEANU;;0,00;;LRM;;5662
-094-07;5663;El-Mehdi;LEMAANNI;;0,00;;DIV;;5663
+094-07;5663;El-Mehdi;LEMAANNI;;0,00;;LRM;;5663
 094-08;5664;Erik;PAGÈS;;0,00;;LFI;;5664
 094-08;5665;Franck;CHALENDAR;;0,00;;Patriotes;;5665
 094-08;5666;Amandine;CHEYNS;;0,00;;LO;;5666
@@ -5679,7 +5679,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 094-09;5678;Christophe;JAUBERT;;0,00;;DVE;;5678
 094-09;5679;Sandrine;RUCHOT;;0,00;;LO;;5679
 094-09;5680;Monia;MAHMOUDI;;0,00;;DIV;;5680
-094-09;5681;Abdallah;BENBETKA;;0,00;;DVE;checked;5681
+094-09;5681;Abdallah;BENBETKA;;0,00;;EE-LV;checked;5681
 094-09;5682;Wenqi;CUI;;0,00;;RN;;5682
 094-09;5683;Ethan;GARY;;0,00;;SOUV;;5683
 094-09;5684;Michèle;BONHOMME-AFFLATET;;0,00;;LR;;5684
@@ -5691,14 +5691,14 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 094-10;5690;Philippe;HARDOUIN;;0,00;;LRM;;5690
 094-10;5691;Laurine;LADIAN-FASSI;;0,00;;Reconquête;;5691
 094-10;5692;Elise;LIN;;0,00;;RN;;5692
-094-10;5693;César;COURANT;;0,00;;Parti animaliste;;5693
+094-10;5693;César;COURANT;;0,00;;DIV;;5693
 094-10;5694;Mathilde;PANOT;checked;0,00;;LFI;;5694
 094-10;5695;Christine;LICHTENAUER;;0,00;;LO;;5695
-094-11;5696;Zahra;AIT OUALI;;0,00;;REG;;5696
+094-11;5696;Zahra;AIT OUALI;;0,00;;DIV;;5696
 094-11;5697;Sarah;MILAMON;;0,00;;Reconquête;;5697
 094-11;5698;Sophie;TAILLÉ-POLIAN;;0,00;;Génération·s;;5698
 094-11;5699;Mahrouf;BOUNEGTA;;0,00;;LR;;5699
-094-11;5700;Namunayao Kahambwe Ziada;MWANA-KUSU;;0,00;;DIV;;5700
+094-11;5700;Namunayao Kahambwe Ziada;MWANA-KUSU;;0,00;;DVC;;5700
 094-11;5701;Pedro;GUANAES NETTO;;0,00;;SOUV;;5701
 094-11;5702;Jean;COUTHURES;;0,00;;MdP;;5702
 094-11;5703;Martina;GABELICA;;0,00;;RN;;5703
@@ -5712,7 +5712,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 095-01;5711;Sandrine;BARBIER;;0,00;;Parti animaliste;;5711
 095-01;5712;Barbara;GÉHAN;;0,00;;LO;;5712
 095-01;5713;Erwan;ATTAGNANT;;0,00;;Reconquête;;5713
-095-01;5714;Emilie;CHANDLER;;0,00;;LRM;;5714
+095-01;5714;Emilie;CHANDLER;;0,00;;AGIR,LRM;;5714
 095-01;5715;Philippe;PIERRE;;0,00;;RN;;5715
 095-01;5716;Lionel;LESSAINT;;0,00;;DLF;;5716
 095-01;5717;Leïla;IVORRA;;0,00;;LFI;;5717
@@ -5844,7 +5844,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 999-02;5843;Pierre;VANIER;;0,76;;Parti pirate;;5843
 999-02;5844;Thérèse;MARIANNE PEPIN;;0,23;;PRG;;5844
 999-02;5845;Christian;RODRIGUEZ;;28,20;checked;LFI;;5845
-999-02;5846;Eléonore;CAROIT;;34,57;checked;LRM;;5846
+999-02;5846;Eléonore;CAROIT;;34,57;checked;AGIR,LRM;;5846
 999-02;5847;Tim;LAURENCE;;6,08;;DVE;;5847
 999-02;5848;Martin;BIURRUN;;4,72;;DVC;;5848
 999-02;5849;Léa;LEFEBVRE;;2,16;;RN;;5849
@@ -6016,7 +6016,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 971-03;6015;Grégory;CABRION;;0,00;;DIV;;6015
 971-03;6016;Sylvie;CHAMMOUGON ANNO;;9,30;;PS;checked;6016
 971-03;6017;Fabrice;LUCE;;0,00;;DVC;;6017
-971-03;6018;Max;MATHIASIN;;16,90;checked;DVC;;6018
+971-03;6018;Max;MATHIASIN;;16,90;checked;MDM;;6018
 971-03;6019;Prévert;MAYENGO;;0,00;;Reconquête;;6019
 971-03;6020;René-Claude;ARGIS;;0,00;;DIV;;6020
 971-03;6021;Gilbert;EDINVAL;;0,00;;DIV;;6021
@@ -6104,13 +6104,13 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 973-01;6103;Myrtha;CATTIER;;0,00;;DVG;;6103
 973-01;6104;Alix;MADELEINE;;0,00;;DVC;;6104
 973-01;6105;Aurore;SAGNE;;0,00;;DIV;;6105
-973-01;6106;Philippe;BOUBA;;0,00;;LFI;checked;6106
+973-01;6106;Philippe;BOUBA;;0,00;;DVG;checked;6106
 973-01;6107;Boris;CHONG-SIT;;0,00;;DVC;;6107
-973-02;6108;Wender;KARAM;;0,00;;PS;checked;6108
+973-02;6108;Wender;KARAM;;0,00;;DVG;checked;6108
 973-02;6109;Gillermo;JOJE;;0,00;;DVG;;6109
 973-02;6110;Virgine;THOMAS;;0,00;;RN;;6110
 973-02;6111;Davy;RIMANE;;21,30;checked;DVG;;6111
-973-02;6112;Christophe Yanuwana;PIERRE;;0,00;;NPA;;6112
+973-02;6112;Christophe Yanuwana;PIERRE;;0,00;;DVG;;6112
 973-02;6113;Lénaïck;ADAM;;31,90;checked;LRM;;6113
 973-02;6114;Manuel Victor;JEAN-BAPTISTE;;12,10;;REG;;6114
 973-02;6115;Jenny;BUNCH;;0,00;;DLF;;6115
@@ -6151,13 +6151,13 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 974-03;6150;Raphaël;DIJOUX;;0,00;;Génération écologie;checked;6150
 974-03;6151;Bachil;VALY;;0,00;;LRM;;6151
 974-03;6152;Sandrine;MOUKINE;;0,00;;DLF;;6152
-974-03;6153;Didier;HOAREAU;;0,00;;RN;;6153
-974-03;6154;Nathalie;BASSIRE;checked;0,00;;LR;checked;6154
+974-03;6153;Didier;HOAREAU;;14,20;;RN;;6153
+974-03;6154;Nathalie;BASSIRE;checked;18,70;checked;LR;checked;6154
 974-03;6155;Antoine;FONTAINE;;0,00;;REG;;6155
 974-03;6156;Yves;THEBAULT;;0,00;;LO;;6156
 974-03;6157;Didier;TÉCHER;;0,00;;DIV;;6157
-974-03;6158;Alexis;CHAUSSALET;;0,00;;LFI;;6158
-974-03;6159;Patrice;THIEN-AH-KOON;;0,00;;DVD;;6159
+974-03;6158;Alexis;CHAUSSALET;;18,40;;LFI;;6158
+974-03;6159;Patrice;THIEN-AH-KOON;;20,70;checked;DVD;;6159
 974-03;6160;Jean Jacques;VLODY;;0,00;;PS;checked;6160
 974-04;6161;Ruth;DIJOUX;;0,00;;DVE;;6161
 974-04;6162;Isabelle;PAYET;;0,00;;DIV;;6162
@@ -6170,43 +6170,43 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 974-04;6169;Richard;RIANI;;0,00;;DIV;;6169
 974-04;6170;Patricia;HOAREAU;;0,00;;Patriotes;;6170
 974-04;6171;Emeline;K/BIDI;;0,00;;LFI;;6171
-974-05;6172;Laurent;VIRAPOULLÉ;;0,00;;LRM;;6172
+974-05;6172;Laurent;VIRAPOULLÉ;;12,50;;LRM;;6172
 974-05;6173;Léopoldine;SETTAMA-VIDON;;0,00;;DVC;;6173
-974-05;6174;Ridwane;ISSA;;0,00;;DVG;;6174
+974-05;6174;Ridwane;ISSA;;17,40;checked;DVG;;6174
 974-05;6175;David;GAUVIN;;0,00;;PCR;checked;6175
 974-05;6176;Jean-Yves;PAYET;;0,00;;LO;;6176
 974-05;6177;Martine;DIJOUX;;0,00;;Patriotes;;6177
-974-05;6178;Jean-Hugues;RATENON;checked;0,00;;LFI;;6178
-974-05;6179;Stéphane;FOUASSIN;;0,00;;UDI;;6179
+974-05;6178;Jean-Hugues;RATENON;checked;47,60;checked;LFI;;6178
+974-05;6179;Stéphane;FOUASSIN;;13,80;;UDI;;6179
 974-05;6180;Marie-Luce;BRASIER-CLAIN;;0,00;;RN;;6180
 974-06;6181;Johny;ADEKALOM;;0,00;;DVC;;6181
 974-06;6182;Ophélie;CLAIN;;0,00;;Patriotes;;6182
-974-06;6183;Monique;ORPHÉ;;0,00;;PS;checked;6183
+974-06;6183;Monique;ORPHÉ;;14,30;;PS;checked;6183
 974-06;6184;Valérie;LEGROS;;0,00;;RN;;6184
 974-06;6185;Philippe;DE CHAZOURNES;;0,00;;DIV;;6185
-974-06;6186;Eric;LEUNG;;0,00;;LRM;;6186
-974-06;6187;Frédéric;MAILLOT;;0,00;;DVG,NUP;;6187
+974-06;6186;Eric;LEUNG;;13,70;;LRM;;6186
+974-06;6187;Frédéric;MAILLOT;;24,90;checked;DVG,NUP;;6187
 974-06;6188;Loïc;FANFAN;;0,00;;REG;;6188
 974-06;6189;Didier;LOMBARD;;0,00;;LO;;6189
 974-06;6190;Nadine;GIRONCEL DAMOUR;;0,00;;PCR;checked;6190
-974-06;6191;Alexandre;LAÏ-KANE-CHEONG;;0,00;;EXG;;6191
+974-06;6191;Alexandre;LAÏ-KANE-CHEONG;;16,50;checked;EXG;;6191
 974-06;6192;Nadia;RAMASSAMY;checked;0,00;;LR;;6192
 974-06;6193;Jean Noël;HOAREAU;;0,00;;DVG;;6193
 974-07;6194;Karim;JUHOOR;;0,00;;DVG;;6194
-974-07;6195;Hélène;CODDEVILLE;;0,00;;LRM;;6195
+974-07;6195;Hélène;CODDEVILLE;;9,60;;LRM;;6195
 974-07;6196;Richelain;CATHERINE;;0,00;;DIV;;6196
-974-07;6197;Thierry;ROBERT;;0,00;;DVC;;6197
+974-07;6197;Thierry;ROBERT;;25,30;checked;DVC;;6197
 974-07;6198;Remy;MASSAIN;;0,00;;PRG;;6198
-974-07;6199;Gaël;VELLEYEN;;0,00;;REG;;6199
+974-07;6199;Gaël;VELLEYEN;;3,00;;REG;;6199
 974-07;6200;Eric;MARCELY;;0,00;;Patriotes;;6200
-974-07;6201;Jean François;NATIVEL;;0,00;;MdR;;6201
-974-07;6202;Jonathan;RIVIERE;;0,00;;RN;;6202
+974-07;6201;Jean François;NATIVEL;;8,30;;MdR;;6201
+974-07;6202;Jonathan;RIVIERE;;7,80;;RN;;6202
 974-07;6203;François;VALEAMA;;0,00;;PCR;checked;6203
-974-07;6204;Isaline;TRONC;;0,00;;DVG;;6204
+974-07;6204;Isaline;TRONC;;3,80;;DVG;;6204
 974-07;6205;Jérôme;BACHOU;;0,00;;DVC;;6205
-974-07;6206;Perceval;GAILLARD;;0,00;;LFI;;6206
+974-07;6206;Perceval;GAILLARD;;19,60;checked;LFI;;6206
 974-07;6207;Jean Luc;PAYET;;0,00;;LO;;6207
-974-07;6208;Johan;GUILLOU;;0,00;;DVG;;6208
+974-07;6208;Johan;GUILLOU;;13,00;;DVG;;6208
 975-01;6209;Dominica;MICHEL;;17,90;;DVG;;6209
 975-01;6210;Patrick;LEBAILLY;;20,13;;DVG;;6210
 975-01;6211;Olivier;GASTON;;29,59;checked;LFI;checked;6211
@@ -6230,7 +6230,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 976-02;6229;Ahumad;SALIME;;0,00;;DVD;;6229
 976-02;6230;Anli;MADI NGAZI;;0,00;;DVC;;6230
 976-02;6231;Mouhamed;ABDOU;;0,00;;DVG;;6231
-976-02;6232;Madi-Boinamani;MADI MARI;;0,00;;LRM;;6232
+976-02;6232;Madi-Boinamani;MADI MARI;;0,00;;AGIR,LRM;;6232
 976-02;6233;Mouhamadi;MCHAMI;;0,00;;DVC;;6233
 977-01;6234;Claire;JAVOIS;;6,50;;LR;;6234
 977-01;6235;Daniel;GIBBS;;27,60;checked;DVD;;6235
@@ -6244,7 +6244,7 @@ circonscription;index;prenom;nom;sortante;score_percent;qualif_tour2;parti;dissi
 986-01;6243;Soane Paulo;MAILAGI;;0,00;;DVC;;6243
 986-01;6244;Malia Nive;KULIKOVI;;0,00;;EAC;;6244
 986-01;6245;Lauriane;TIALETAGI-VERGÉ;;0,00;;DVC;;6245
-986-01;6246;Atonio Falemana;ILALIO;;0,00;;DVC;;6246
+986-01;6246;Atonio Falemana;ILALIO;;0,00;;;;6246
 986-01;6247;Mikaele;SEO;;0,00;;DVC;;6247
 987-01;6248;Pascale;HAITI;;14,39;;DVD;;6248
 987-01;6249;Tematai;LE GAYIC;;20,11;checked;LFI,REG;;6249
